@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/cmike444/lita-slobber.git
-  revision: 6474a7b34ad35056e8afa5d6cf04e332ac1e1531
+  revision: f26b819204ebf086d52347450c7887473d87b935
   specs:
     lita-slobber (0.1.2)
       lita (>= 4.4)
